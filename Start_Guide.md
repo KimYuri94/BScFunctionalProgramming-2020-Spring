@@ -1,7 +1,7 @@
 # Start Guide
 ## This is a guide to installing the Clean programming language on your machine and writing your first program.
 
-## Feel to contact us if this did not work for you.
+## Feel free to contact us if this did not work for you.
 
 ## Windows
 - Download the aprropiate package for your machine ([32bit](https://ftp.cs.ru.nl/Clean/Clean30/windows/Clean_3.0_32.zip) or [64bit](https://ftp.cs.ru.nl/Clean/Clean30/windows/Clean_3.0_64.zip)).
